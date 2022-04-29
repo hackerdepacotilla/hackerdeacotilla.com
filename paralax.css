@@ -79,7 +79,7 @@ header{
     justify-content: center;
     align-items: center;
 }
-.seccion h2, .seccion_1 h2, .seccion_2 h2{
+.seccion h2, .seccion_1 h2, .seccion_2 h2, .seccion_3 h2{
     font-size: 60px;
     text-align: center;
     padding: 400px 0px;
