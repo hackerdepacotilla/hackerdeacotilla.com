@@ -130,6 +130,19 @@ header{
     background-attachment: fixed;
     justify-content: center;
     align-items: center;
+}
+
+.seccion_4{
+    background: url(Imagenes/pccomponentes.jpg);
+    width: 100%;
+    height: 110vh;
+    background-position: center;
+    position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+}
 
 .foot{
     background-color: black;
